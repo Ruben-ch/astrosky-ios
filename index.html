@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="fr" style="background-color: #000000; color: #F8FAFC;">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="theme-color" content="#000000" />
+    <title>AstroSky</title>
+    <style>
+      html, body { background-color: #000000; color: #F8FAFC; margin: 0; }
+      html[data-theme="red-night"], html[data-theme="red-night"] body { color: #FF2A2A !important; }
+    </style>
+    <script>
+      // Vision nocturne posée avant tout rendu (même logique que ThemeContext) : aucun flash bleu/blanc au démarrage.
+      try {
+        var t = new URLSearchParams(location.search).get('theme') || localStorage.getItem('astrosky:theme')
+        if (t === 'red-night') document.documentElement.setAttribute('data-theme', 'red-night')
+      } catch (e) {}
+    </script>
+  </head>
+  <body style="background-color: #000000; color: #F8FAFC;">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

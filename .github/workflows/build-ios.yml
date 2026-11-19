@@ -1,0 +1,65 @@
+# Build iOS non signé (.ipa) d'AstroSky.
+# Le projet natif utilise Swift Package Manager (ios/App/CapApp-SPM) et non CocoaPods :
+# pas de Podfile ni de App.xcworkspace, xcodebuild part donc de App.xcodeproj et
+# résout lui-même les paquets SPM (plugins Capacitor dans node_modules).
+name: Build iOS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      runner:
+        description: Image macOS (file arm64 saturée → Intel par défaut)
+        type: choice
+        default: macos-15-intel
+        options: [macos-15-intel, macos-15, macos-14, macos-latest]
+
+concurrency:
+  group: build-ios-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # Runners macOS arm64 (macos-latest) saturés : file Intel par défaut, Xcode 16 inclus.
+    runs-on: ${{ inputs.runner || 'macos-15-intel' }}
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Toolchain
+        run: xcodebuild -version && uname -m
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build web bundle
+        run: npm run build
+
+      - name: Sync Capacitor iOS
+        run: npx cap sync ios
+
+      - name: Archive (Release, unsigned)
+        run: |
+          xcodebuild -project ios/App/App.xcodeproj -scheme App -configuration Release -sdk iphoneos \
+            -archivePath build/AstroSky.xcarchive archive \
+            CODE_SIGN_IDENTITY="" CODE_SIGN_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
+
+      - name: Package .ipa
+        run: |
+          rm -rf build/Payload build/AstroSky.ipa
+          mkdir -p build/Payload
+          cp -R build/AstroSky.xcarchive/Products/Applications/App.app build/Payload/
+          cd build && zip -qry AstroSky.ipa Payload
+
+      - name: Upload .ipa
+        uses: actions/upload-artifact@v4
+        with:
+          name: AstroSky-ipa
+          path: build/AstroSky.ipa
+          if-no-files-found: error

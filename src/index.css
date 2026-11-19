@@ -1,0 +1,197 @@
+@import "tailwindcss";
+
+/* ─── Design tokens — OLED Dark (défaut) ─────────────────────────── */
+:root {
+  --bg-primary: #000000;
+  --bg-surface: #090D16;
+  --bg-elevated: #111827;
+  --border-subtle: rgba(148, 163, 184, 0.16);
+  --border-strong: rgba(148, 163, 184, 0.34);
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-tertiary: #64748B;
+  --accent-primary: #38BDF8;
+  --accent-soft: rgba(56, 189, 248, 0.14);
+  /* Surfaces douces sans bordure (style iOS) : voile blanc très léger sur noir OLED. */
+  --surface-soft: rgba(255, 255, 255, 0.04);
+  --surface-softer: rgba(255, 255, 255, 0.07);
+  --hairline: rgba(255, 255, 255, 0.06);
+  --gold-soft: rgba(251, 191, 36, 0.14);
+  --accent-gold: #FBBF24;
+  --state-good: #34D399;
+  --state-fair: #FBBF24;
+  --state-poor: #F87171;
+
+  color-scheme: dark;
+}
+
+/* ─── Vision Nocturne Rouge — zéro bleu/vert/blanc ───────────────── */
+/* Toutes les teintes ont des composantes verte et bleue nulles, sauf le rouge
+   de référence #FF2A2A imposé par la charte. */
+[data-theme="red-night"] {
+  --bg-primary: #000000;
+  --bg-surface: #120000;
+  --bg-elevated: #1F0000;
+  --border-subtle: rgba(255, 0, 0, 0.22);
+  --border-strong: rgba(255, 0, 0, 0.45);
+  --text-primary: #FF2A2A;
+  --text-secondary: #B30000;
+  --text-tertiary: #7A0000;
+  --accent-primary: #FF2A2A;
+  --accent-soft: rgba(255, 0, 0, 0.16);
+  --surface-soft: rgba(255, 0, 0, 0.06);
+  --surface-softer: rgba(255, 0, 0, 0.10);
+  --hairline: rgba(255, 0, 0, 0.12);
+  --gold-soft: rgba(255, 0, 0, 0.14);
+  --accent-gold: #D40000;
+  --state-good: #FF2A2A;
+  --state-fair: #B00000;
+  --state-poor: #6A0000;
+}
+
+/* Expose les tokens à Tailwind : bg-surface, text-secondary, border-subtle… */
+@theme inline {
+  --color-bg-primary: var(--bg-primary);
+  --color-surface: var(--bg-surface);
+  --color-elevated: var(--bg-elevated);
+  --color-subtle: var(--border-subtle);
+  --color-strong: var(--border-strong);
+  --color-primary: var(--text-primary);
+  --color-secondary: var(--text-secondary);
+  --color-tertiary: var(--text-tertiary);
+  --color-accent: var(--accent-primary);
+  --color-accent-soft: var(--accent-soft);
+  --color-soft: var(--surface-soft);
+  --color-softer: var(--surface-softer);
+  --color-hairline: var(--hairline);
+  --color-gold-soft: var(--gold-soft);
+  --color-gold: var(--accent-gold);
+  --color-good: var(--state-good);
+  --color-fair: var(--state-fair);
+  --color-poor: var(--state-poor);
+}
+
+/* ─── Base ───────────────────────────────────────────────────────── */
+html,
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  overscroll-behavior: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", system-ui, sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+::selection {
+  background: var(--accent-primary);
+  color: var(--bg-primary);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+
+button {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+@layer base {
+  input {
+    color: var(--text-primary);
+    font: inherit;
+  }
+}
+
+/* Le sélecteur natif de date est rendu par WebKit : on le teinte via color-scheme
+   et on masque l'icône (blanche) au profit d'une icône thémée. */
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+}
+
+/* Le bouton d'effacement natif des champs de recherche est blanc (WebKit) :
+   masqué au profit d'un bouton thémé ; le focus est porté par la bordure du champ. */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+input[type="search"]:focus-visible {
+  outline: none;
+}
+
+/* Curseur de magnitude entièrement thémé : la piste native de WebKit est grise. */
+input[type="range"].mag-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+input[type="range"].mag-slider::-webkit-slider-runnable-track {
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border-strong);
+}
+input[type="range"].mag-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 26px;
+  height: 26px;
+  margin-top: -11px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  border: 3px solid var(--bg-primary);
+}
+input[type="range"].mag-slider:focus-visible {
+  outline: none;
+}
+
+/* Médias distants (APOD, lancements) : luminance projetée sur le seul canal rouge
+   par le filtre SVG #astrosky-red-night (App.tsx) → G = B = 0 sur chaque pixel. */
+[data-theme="red-night"] img,
+[data-theme="red-night"] video,
+[data-theme="red-night"] iframe {
+  filter: url(#astrosky-red-night);
+}
+
+/* ─── Utilitaires iOS ────────────────────────────────────────────── */
+@utility pt-safe {
+  padding-top: env(safe-area-inset-top);
+}
+
+@utility pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+@utility tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility touch-target {
+  min-width: 44px;
+  min-height: 44px;
+}

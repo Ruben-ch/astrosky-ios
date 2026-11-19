@@ -1,0 +1,548 @@
+<!-- Extrait non modifié du flux officiel https://science.nasa.gov/feed/apod-basic/ (relevé le 2026-11-19) -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:apod="https://science.nasa.gov/apod/">
+<channel>
+	<title>APOD Basic</title>
+	<description>APOD Basic markup feed.</description>
+	<link>https://science.nasa.gov/</link>
+	<atom:link href="https://science.nasa.gov/feed/apod-basic/" rel="self" type="application/rss+xml" />
+	<language>en-us</language>
+		<item>
+		<title>The Horsehead and Flame Nebulas</title>
+		<link>https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</link>
+		<guid isPermaLink="true">https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</guid>
+		<pubDate>Thu, 19 Nov 2026 05:05:00 +0000</pubDate>
+		<apod:url>https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</apod:url>
+		<apod:hdurl>https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip</apod:hdurl>
+		<apod:discussion>https://asterisk.apod.com/discuss_apod.php?date=261119</apod:discussion>
+		<apod:credit><![CDATA[<a href="https://www.pop-imagery.com/">Mark E. Killion</a>]]></apod:credit>
+		<apod:copyright><![CDATA[<a href="https://www.pop-imagery.com/">Mark E. Killion</a>]]></apod:copyright>
+		<apod:alt>Bright stars and colorful nebulas shine on a dark field of stars. A small, dark nebula near the center looks like a horse&#039;s head.</apod:alt>
+		<apod:primary_image_alt>Bright stars and colorful nebulas shine on a dark field of stars. A small, dark nebula near the center looks like a horse&#039;s head.</apod:primary_image_alt>
+		<apod:explanation><![CDATA[<strong>Explanation:</strong> Today's <a href="https://app.astrobin.com/i/ju7bwr?r=B">image</a> could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue <a href="https://science.nasa.gov/image-article/apod-2025-november-20-alnitak-alnilam-mintaka/">Alnitak</a> (the Girdle): <a href="https://en.wikipedia.org/wiki/Alnitak">a triple star system</a> best known for being the easternmost star in <a href="https://science.nasa.gov/universe/stories/quick-reads/discovering-the-universe-through-the-constellation-orion/">Orion's Belt</a>. The instantly recognizable shape of a dark horse's head at the center is the aptly named <a href="https://science.nasa.gov/image-article/apod-2025-september-2-the-horsehead-and-flame-nebulas/">Horsehead Nebula</a>. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of <a href="https://science.nasa.gov/image-article/apod-2025-december-10-the-horsehead-nebula/">dust and gas</a> that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star <a href="https://en.wikipedia.org/wiki/Sigma_Orionis">Sigma Orionis</a> at the top. The orange nebula with dark filaments on the left is the <a href="https://en.wikipedia.org/wiki/Flame_Nebula">Flame Nebula</a>. Closer to the Horsehead, the blue <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">reflection nebula</a> <a href="https://science.nasa.gov/image-article/apod-2023-november-20-the-horsehead-nebula/">NGC 2023</a> is actively forming stars. The data for this "painting" were collected for almost six hours at the <a href="https://en.wikipedia.org/wiki/Utah">Utah</a> <a href="https://utahdesertremote.com/">Desert Remote Observatories</a>, but the equipment was <a href="https://images.unsplash.com/photo-1596965349990-6d67ce6b0c1c">remotely controlled</a> by the astrophotographer from his home, over 2,000 km away in <a href="https://en.wikipedia.org/wiki/Illinois">Illinois</a>.<br><br><strong>Tomorrow's picture:</strong> what's next?]]></apod:explanation>
+		<description><![CDATA[<strong>Explanation:</strong> Today's <a href="https://app.astrobin.com/i/ju7bwr?r=B">image</a> could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue <a href="https://science.nasa.gov/image-article/apod-2025-november-20-alnitak-alnilam-mintaka/">Alnitak</a> (the Girdle): <a href="https://en.wikipedia.org/wiki/Alnitak">a triple star system</a> best known for being the easternmost star in <a href="https://science.nasa.gov/universe/stories/quick-reads/discovering-the-universe-through-the-constellation-orion/">Orion's Belt</a>. The instantly recognizable shape of a dark horse's head at the center is the aptly named <a href="https://science.nasa.gov/image-article/apod-2025-september-2-the-horsehead-and-flame-nebulas/">Horsehead Nebula</a>. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of <a href="https://science.nasa.gov/image-article/apod-2025-december-10-the-horsehead-nebula/">dust and gas</a> that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star <a href="https://en.wikipedia.org/wiki/Sigma_Orionis">Sigma Orionis</a> at the top. The orange nebula with dark filaments on the left is the <a href="https://en.wikipedia.org/wiki/Flame_Nebula">Flame Nebula</a>. Closer to the Horsehead, the blue <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">reflection nebula</a> <a href="https://science.nasa.gov/image-article/apod-2023-november-20-the-horsehead-nebula/">NGC 2023</a> is actively forming stars. The data for this "painting" were collected for almost six hours at the <a href="https://en.wikipedia.org/wiki/Utah">Utah</a> <a href="https://utahdesertremote.com/">Desert Remote Observatories</a>, but the equipment was <a href="https://images.unsplash.com/photo-1596965349990-6d67ce6b0c1c">remotely controlled</a> by the astrophotographer from his home, over 2,000 km away in <a href="https://en.wikipedia.org/wiki/Illinois">Illinois</a>.<br><br><strong>Tomorrow's picture:</strong> what's next?]]></description>
+		<content:encoded><![CDATA[<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> APOD: 2026 November 19 - The Horsehead and Flame Nebulas</title>
+<link rel="canonical" href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/">
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="Dana Bolles">
+<meta name="content-owner" content="Cecilia Chirenti">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="Explanation: Today&#039;s image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion&#039;s Belt. The instantly recognizable shape of a dark horse&#039;s head at the center is the aptly named Horsehead Nebula. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula. Closer to the Horsehead, the blue reflection nebula NGC 2023 is actively forming stars. The data for this &quot;painting&quot; were collected for almost six hours at the Utah Desert Remote Observatories, but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois.Tomorrow&#039;s picture: what&#039;s next?">
+<!-- -->
+<meta name="keywords" content="the horsehead and flame nebulas">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Horsehead and Flame Nebulas">
+<meta property="og:url" content="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/">
+<meta property="og:site_name" content="NASA Science">
+<meta property="og:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip">
+<meta property="og:image:secure_url" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip">
+<meta property="og:image:alt" content="Bright stars and colorful nebulas shine on a dark field of stars. A small, dark nebula near the center looks like a horse&#039;s head.">
+<meta property="article:published_time" content="2026-11-19T00:05:00-05:00">
+<meta property="article:modified_time" content="2026-11-18T15:38:21-05:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Horsehead and Flame Nebulas">
+<meta name="twitter:site" content="@NASA">
+<meta name="twitter:creator" content="@NASA">
+<meta name="twitter:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip">
+</head>
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="https://science.nasa.gov/apod/archive/">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2026 November 19<br>
+
+<a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg" onMouseOver="if (document.images) document.imagename1.src='https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion_annotated_large_font.jpeg';"
+onMouseOut="if (document.images) document.imagename1.src='https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg';">
+<IMG SRC="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg" name=imagename1 alt="Bright stars and colorful nebulas shine on a dark field of stars. A small, dark nebula near the center looks like a horse&#039;s head."></a>
+</center>
+
+<center>
+<b> The Horsehead and Flame Nebulas </b> <br>
+
+<b>Image Credit &
+<a href="https://science.nasa.gov/apod/about-apod/">Copyright</a>:</b>
+
+<a href="https://www.pop-imagery.com/">Mark E. Killion</a>
+</center>
+
+<p>
+
+<b> Explanation: </b>
+
+<strong>Explanation:</strong> Today's <a href="https://app.astrobin.com/i/ju7bwr?r=B">image</a> could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue <a href="https://science.nasa.gov/image-article/apod-2025-november-20-alnitak-alnilam-mintaka/">Alnitak</a> (the Girdle): <a href="https://en.wikipedia.org/wiki/Alnitak">a triple star system</a> best known for being the easternmost star in <a href="https://science.nasa.gov/universe/stories/quick-reads/discovering-the-universe-through-the-constellation-orion/">Orion's Belt</a>. The instantly recognizable shape of a dark horse's head at the center is the aptly named <a href="https://science.nasa.gov/image-article/apod-2025-september-2-the-horsehead-and-flame-nebulas/">Horsehead Nebula</a>. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of <a href="https://science.nasa.gov/image-article/apod-2025-december-10-the-horsehead-nebula/">dust and gas</a> that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star <a href="https://en.wikipedia.org/wiki/Sigma_Orionis">Sigma Orionis</a> at the top. The orange nebula with dark filaments on the left is the <a href="https://en.wikipedia.org/wiki/Flame_Nebula">Flame Nebula</a>. Closer to the Horsehead, the blue <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">reflection nebula</a> <a href="https://science.nasa.gov/image-article/apod-2023-november-20-the-horsehead-nebula/">NGC 2023</a> is actively forming stars. The data for this "painting" were collected for almost six hours at the <a href="https://en.wikipedia.org/wiki/Utah">Utah</a> <a href="https://utahdesertremote.com/">Desert Remote Observatories</a>, but the equipment was <a href="https://images.unsplash.com/photo-1596965349990-6d67ce6b0c1c">remotely controlled</a> by the astrophotographer from his home, over 2,000 km away in <a href="https://en.wikipedia.org/wiki/Illinois">Illinois</a>.<br><br><strong>Tomorrow's picture:</strong> what's next?
+<p> <center>
+
+
+<p> <hr>
+<a href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/">&lt;</a>
+| <a href="https://science.nasa.gov/apod/archive/">Archive</a>
+| <a href="https://science.nasa.gov/apod/archive/">Index</a>
+| <a href="https://science.nasa.gov/apod/archive/">Search</a>
+| <a href="https://science.nasa.gov/apod/calendar/">Calendar</a>
+| <a href="/feed/apod-basic/">RSS</a>
+| <a href="https://science.nasa.gov/apod/education-links/">Education</a>
+| <a href="https://science.nasa.gov/apod/about-apod/">About APOD</a>
+| <a href="https://asterisk.apod.com/discuss_apod.php?date=261119">Discuss</a>
+| &gt;
+
+<hr><p>
+<b> Authors & editors: </b>
+Cecilia Chirenti, Robert Nemiroff, Jerry Bonnell, Keighley Rockcliffe<br>
+<b>NASA Official: </b> Dana Bolles<a href="https://science.nasa.gov/apod/about-apod/">Specific rights apply</a>.<br>
+<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="http://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="http://www.nasa.gov/">NASA</a> /
+<a href="http://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>]]></content:encoded>
+	</item>
+	<item>
+		<title>A Medium-Sized Solar Flare</title>
+		<link>https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/</link>
+		<guid isPermaLink="true">https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/</guid>
+		<pubDate>Wed, 18 Nov 2026 05:05:00 +0000</pubDate>
+		<apod:url>https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/</apod:url>
+		<apod:hdurl>https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=3000&#038;h=2759&#038;fit=clip</apod:hdurl>
+		<apod:discussion>https://asterisk.apod.com/discuss_apod.php?date=261118</apod:discussion>
+		<apod:credit><![CDATA[<a href="https://www.facebook.com/mario.cogo.9">Mario Cogo</a>]]></apod:credit>
+		<apod:copyright><![CDATA[<a href="https://www.facebook.com/mario.cogo.9">Mario Cogo</a>]]></apod:copyright>
+		<apod:alt>A piece of the Sun takes up half the image. The Sun looks fuzzy and swirling with energetic hydrogen atoms. A bright and dark spot are visible on the Sun, associated with a sun spot. A wisp of hydrogen reaches off of the edge of the Sun.</apod:alt>
+		<apod:primary_image_alt>A piece of the Sun takes up half the image. The Sun looks fuzzy and swirling with energetic hydrogen atoms. A bright and dark spot are visible on the Sun, associated with a sun spot. A wisp of hydrogen reaches off of the edge of the Sun.</apod:primary_image_alt>
+		<apod:explanation><![CDATA[<strong>Explanation:</strong> What a <a href="https://idioms.thefreedictionary.com/flair+for+the+dramatic">flare for the chromatic</a>! <a href="http://galaxlux.com/Sun-%20Solar%20Limb%20Dynamics%2014%20May%202025.htm">Today’s image</a> combines a series of images taken over ten minutes capturing the <a href="https://science.nasa.gov/sun/">Sun</a>’s <a href="https://scied.ucar.edu/learning-zone/sun-space-weather/chromosphere">chromosphere</a>, the <a href="https://science.nasa.gov/blogs/the-sun-spot/2023/09/26/layers-of-the-sun/">layer of the Sun</a>’s atmosphere above its surface where the temperature <em>rises</em>. Why would the Sun become hotter farther away from its <a href="https://spaceplace.nasa.gov/sun-heat/en/">core</a>? This is potentially due to energy from the swirling <a href="https://solarscience.msfc.nasa.gov/the_key.shtml">magnetic fields</a> extending up through the Sun’s atmosphere. Those same magnetic fields can <a href="https://svs.gsfc.nasa.gov/20310#media_group_320369">twist and snap</a>, releasing light and energetic particles as a <a href="https://www.youtube.com/watch?v=oOXVZo7KikE">solar flare</a>. The <a href="https://skyandtelescope.org/stargazing-and-observing/guide-to-observing-the-sun-in-h-alpha092321050923/">H-alpha filter</a> used for today’s image captures light from energized hydrogen atoms as they travel off the Sun’s surface during a flare on May 14, 2025. This flare was <a href="https://solar-center.stanford.edu/sid/activities/flare.html">classified</a> as an M1 based on <a href="https://science.nasa.gov/mission/goes/">GOES</a> <a href="https://www.spaceweatherlive.com/en/archive/2025/05/14/xray.html">observations</a>, meaning it was moderately bright in <a href="https://science.nasa.gov/ems/11_xrays/">X-rays</a>. M-class flares can cause <a href="https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts">radio blackouts</a> at Earth’s poles and minor <a href="https://www.spaceweather.gov/phenomena/solar-radiation-storm">radiation storms</a> that can harm astronauts. They aren’t even <a href="https://science.nasa.gov/image-article/apod-2018-september-2-a-powerful-solar-flare/">the most powerful flares</a>! NASA, <a href="https://www.noaa.gov/">NOAA</a>, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.<br><br><strong>Tomorrow's picture:</strong> a horse of a different color]]></apod:explanation>
+		<description><![CDATA[<strong>Explanation:</strong> What a <a href="https://idioms.thefreedictionary.com/flair+for+the+dramatic">flare for the chromatic</a>! <a href="http://galaxlux.com/Sun-%20Solar%20Limb%20Dynamics%2014%20May%202025.htm">Today’s image</a> combines a series of images taken over ten minutes capturing the <a href="https://science.nasa.gov/sun/">Sun</a>’s <a href="https://scied.ucar.edu/learning-zone/sun-space-weather/chromosphere">chromosphere</a>, the <a href="https://science.nasa.gov/blogs/the-sun-spot/2023/09/26/layers-of-the-sun/">layer of the Sun</a>’s atmosphere above its surface where the temperature <em>rises</em>. Why would the Sun become hotter farther away from its <a href="https://spaceplace.nasa.gov/sun-heat/en/">core</a>? This is potentially due to energy from the swirling <a href="https://solarscience.msfc.nasa.gov/the_key.shtml">magnetic fields</a> extending up through the Sun’s atmosphere. Those same magnetic fields can <a href="https://svs.gsfc.nasa.gov/20310#media_group_320369">twist and snap</a>, releasing light and energetic particles as a <a href="https://www.youtube.com/watch?v=oOXVZo7KikE">solar flare</a>. The <a href="https://skyandtelescope.org/stargazing-and-observing/guide-to-observing-the-sun-in-h-alpha092321050923/">H-alpha filter</a> used for today’s image captures light from energized hydrogen atoms as they travel off the Sun’s surface during a flare on May 14, 2025. This flare was <a href="https://solar-center.stanford.edu/sid/activities/flare.html">classified</a> as an M1 based on <a href="https://science.nasa.gov/mission/goes/">GOES</a> <a href="https://www.spaceweatherlive.com/en/archive/2025/05/14/xray.html">observations</a>, meaning it was moderately bright in <a href="https://science.nasa.gov/ems/11_xrays/">X-rays</a>. M-class flares can cause <a href="https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts">radio blackouts</a> at Earth’s poles and minor <a href="https://www.spaceweather.gov/phenomena/solar-radiation-storm">radiation storms</a> that can harm astronauts. They aren’t even <a href="https://science.nasa.gov/image-article/apod-2018-september-2-a-powerful-solar-flare/">the most powerful flares</a>! NASA, <a href="https://www.noaa.gov/">NOAA</a>, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.<br><br><strong>Tomorrow's picture:</strong> a horse of a different color]]></description>
+		<content:encoded><![CDATA[<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> APOD: 2026 November 18 - A Medium-Sized Solar Flare</title>
+<link rel="canonical" href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/">
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="Dana Bolles">
+<meta name="content-owner" content="Robert Nemiroff">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="Explanation: What a flare for the chromatic! Today’s image combines a series of images taken over ten minutes capturing the Sun’s chromosphere, the layer of the Sun’s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirling magnetic fields extending up through the Sun’s atmosphere. Those same magnetic fields can twist and snap, releasing light and energetic particles as a solar flare. The H-alpha filter used for today’s image captures light from energized hydrogen atoms as they travel off the Sun’s surface during a flare on May 14, 2025. This flare was classified as an M1 based on GOES observations, meaning it was moderately bright in X-rays. M-class flares can cause radio blackouts at Earth’s poles and minor radiation storms that can harm astronauts. They aren’t even the most powerful flares! NASA, NOAA, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.Tomorrow&#039;s picture: a horse of a different color">
+<!-- -->
+<meta name="keywords" content="a medium-sized solar flare">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A Medium-Sized Solar Flare">
+<meta property="og:url" content="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/">
+<meta property="og:site_name" content="NASA Science">
+<meta property="og:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=3000&#038;h=2759&#038;fit=clip">
+<meta property="og:image:secure_url" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=3000&#038;h=2759&#038;fit=clip">
+<meta property="og:image:alt" content="A piece of the Sun takes up half the image. The Sun looks fuzzy and swirling with energetic hydrogen atoms. A bright and dark spot are visible on the Sun, associated with a sun spot. A wisp of hydrogen reaches off of the edge of the Sun.">
+<meta property="article:published_time" content="2026-11-18T00:05:00-05:00">
+<meta property="article:modified_time" content="2026-11-18T11:07:43-05:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="A Medium-Sized Solar Flare">
+<meta name="twitter:site" content="@NASA">
+<meta name="twitter:creator" content="@NASA">
+<meta name="twitter:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=3000&#038;h=2759&#038;fit=clip">
+</head>
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="https://science.nasa.gov/apod/archive/">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2026 November 18<br>
+
+<a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg">
+<IMG SRC="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg" alt="A piece of the Sun takes up half the image. The Sun looks fuzzy and swirling with energetic hydrogen atoms. A bright and dark spot are visible on the Sun, associated with a sun spot. A wisp of hydrogen reaches off of the edge of the Sun."></a>
+</center>
+
+<center>
+<b> A Medium-Sized Solar Flare </b> <br>
+
+<b>Image Credit &
+<a href="https://science.nasa.gov/apod/about-apod/">Copyright</a>:</b>
+
+<a href="https://www.facebook.com/mario.cogo.9">Mario Cogo</a>
+</center>
+
+<p>
+
+<b> Explanation: </b>
+
+<strong>Explanation:</strong> What a <a href="https://idioms.thefreedictionary.com/flair+for+the+dramatic">flare for the chromatic</a>! <a href="http://galaxlux.com/Sun-%20Solar%20Limb%20Dynamics%2014%20May%202025.htm">Today’s image</a> combines a series of images taken over ten minutes capturing the <a href="https://science.nasa.gov/sun/">Sun</a>’s <a href="https://scied.ucar.edu/learning-zone/sun-space-weather/chromosphere">chromosphere</a>, the <a href="https://science.nasa.gov/blogs/the-sun-spot/2023/09/26/layers-of-the-sun/">layer of the Sun</a>’s atmosphere above its surface where the temperature <em>rises</em>. Why would the Sun become hotter farther away from its <a href="https://spaceplace.nasa.gov/sun-heat/en/">core</a>? This is potentially due to energy from the swirling <a href="https://solarscience.msfc.nasa.gov/the_key.shtml">magnetic fields</a> extending up through the Sun’s atmosphere. Those same magnetic fields can <a href="https://svs.gsfc.nasa.gov/20310#media_group_320369">twist and snap</a>, releasing light and energetic particles as a <a href="https://www.youtube.com/watch?v=oOXVZo7KikE">solar flare</a>. The <a href="https://skyandtelescope.org/stargazing-and-observing/guide-to-observing-the-sun-in-h-alpha092321050923/">H-alpha filter</a> used for today’s image captures light from energized hydrogen atoms as they travel off the Sun’s surface during a flare on May 14, 2025. This flare was <a href="https://solar-center.stanford.edu/sid/activities/flare.html">classified</a> as an M1 based on <a href="https://science.nasa.gov/mission/goes/">GOES</a> <a href="https://www.spaceweatherlive.com/en/archive/2025/05/14/xray.html">observations</a>, meaning it was moderately bright in <a href="https://science.nasa.gov/ems/11_xrays/">X-rays</a>. M-class flares can cause <a href="https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts">radio blackouts</a> at Earth’s poles and minor <a href="https://www.spaceweather.gov/phenomena/solar-radiation-storm">radiation storms</a> that can harm astronauts. They aren’t even <a href="https://science.nasa.gov/image-article/apod-2018-september-2-a-powerful-solar-flare/">the most powerful flares</a>! NASA, <a href="https://www.noaa.gov/">NOAA</a>, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.<br><br><strong>Tomorrow's picture:</strong> a horse of a different color
+<p> <center>
+
+<b> Tomorrow's picture: </b><a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/">APOD: 2026 November 19 &#8211; The Horsehead and Flame Nebulas</a>
+
+<p> <hr>
+<a href="https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/">&lt;</a>
+| <a href="https://science.nasa.gov/apod/archive/">Archive</a>
+| <a href="https://science.nasa.gov/apod/archive/">Index</a>
+| <a href="https://science.nasa.gov/apod/archive/">Search</a>
+| <a href="https://science.nasa.gov/apod/calendar/">Calendar</a>
+| <a href="/feed/apod-basic/">RSS</a>
+| <a href="https://science.nasa.gov/apod/education-links/">Education</a>
+| <a href="https://science.nasa.gov/apod/about-apod/">About APOD</a>
+| <a href="https://asterisk.apod.com/discuss_apod.php?date=261118">Discuss</a>
+| <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+Keighley Rockcliffe, Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti<br>
+<b>NASA Official: </b> Dana Bolles<a href="https://science.nasa.gov/apod/about-apod/">Specific rights apply</a>.<br>
+<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="http://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="http://www.nasa.gov/">NASA</a> /
+<a href="http://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>]]></content:encoded>
+	</item>
+	<item>
+		<title>Milky Way versus Aurora</title>
+		<link>https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/</link>
+		<guid isPermaLink="true">https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/</guid>
+		<pubDate>Tue, 17 Nov 2026 05:05:00 +0000</pubDate>
+		<apod:url>https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/</apod:url>
+		<apod:hdurl>https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=960&#038;h=1200&#038;fit=clip</apod:hdurl>
+		<apod:discussion>https://asterisk.apod.com/discuss_apod.php?date=261117</apod:discussion>
+		<apod:credit><![CDATA[<a href="https://www.instagram.com/guillaume_scheib/">Guillaume Scheib</a>]]></apod:credit>
+		<apod:copyright><![CDATA[<a href="https://www.instagram.com/guillaume_scheib/">Guillaume Scheib</a>]]></apod:copyright>
+		<apod:alt>A starry night sky is seen above water and some islands. In the night sky are two bright arches that are nearly vertical. On the left is the textured Milky Way and on the right is a  smoother ribbon of aurora. Please see the explanation for more detailed information.</apod:alt>
+		<apod:primary_image_alt>A starry night sky is seen above water and some islands. In the night sky are two bright arches that are nearly vertical. On the left is the textured Milky Way and on the right is a  smoother ribbon of aurora. Please see the explanation for more detailed information.</apod:primary_image_alt>
+		<apod:secondary_image_alt>A starry night sky is seen above water and some islands. In the night sky are two bright arches that are nearly vertical. On the left is the textured Milky Way and on the right is a  smoother ribbon of aurora. Please see the explanation for more detailed information.</apod:secondary_image_alt>
+		<apod:explanation><![CDATA[<strong>Explanation:</strong> Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">Milky Way Galaxy</a>, an ancient system of stars, gas, and dust that predates <a href="https://science.nasa.gov/resource/planet-earth-through-the-ages/">our Earth</a> and is very far away. The arch on the right, by contrast, is an <a href="https://science.nasa.gov/image-article/apod-2004-november-12-missouris-green-ribbon-sky/">auroral ribbon</a> that is only hours old, composed of energized <a href="https://www.bbc.co.uk/bitesize/articles/zc86m39#zygjdp3">atoms and molecules</a>, and is close by -- right in <a href="https://www.nasa.gov/image-article/properties-of-earths-upper-atmosphere/">Earth's upper atmosphere</a>. These chance-superposed <a href="https://science.nasa.gov/image-article/apod-2025-november-30-the-surface-of-titan-from-huygens/">titan</a>s have <a href="https://science.nasa.gov/image-article/apod-2024-june-15-prominences-and-filaments-on-the-active-sun/">our Sun</a> in common, a <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthis-is-the-most-cute-thing-i-ever-seen-v0-mpx697lakcue1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Da5d18b145135737912b5caa61fcc56766726f6cb">stellar member</a> of the Milky Way that ejects energetic particles which create <a href="https://science.nasa.gov/image-article/apod-2026-february-10-in-green-company-aurora-over-norway/">aurora</a>s. Far behind the middle of the <a href="https://science.nasa.gov/image-article/apod-2021-january-13-arches-across-an-arctic-sky/">auroral arch</a> is the <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a>. Even farther in the distance is the <a href="https://svs.gsfc.nasa.gov/11675/">Andromeda galaxy</a> -- the bright spot near the top of the frame, just left of center. The <a href="https://www.instagram.com/p/DfAZEgmIDIq/">featured image</a> was taken about a month ago from <a href="https://youtu.be/4VlzJh3WBGU">Kvaløya</a> in northern <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>.<br><br><strong>Tomorrow's picture: </strong>open space]]></apod:explanation>
+		<description><![CDATA[<strong>Explanation:</strong> Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">Milky Way Galaxy</a>, an ancient system of stars, gas, and dust that predates <a href="https://science.nasa.gov/resource/planet-earth-through-the-ages/">our Earth</a> and is very far away. The arch on the right, by contrast, is an <a href="https://science.nasa.gov/image-article/apod-2004-november-12-missouris-green-ribbon-sky/">auroral ribbon</a> that is only hours old, composed of energized <a href="https://www.bbc.co.uk/bitesize/articles/zc86m39#zygjdp3">atoms and molecules</a>, and is close by -- right in <a href="https://www.nasa.gov/image-article/properties-of-earths-upper-atmosphere/">Earth's upper atmosphere</a>. These chance-superposed <a href="https://science.nasa.gov/image-article/apod-2025-november-30-the-surface-of-titan-from-huygens/">titan</a>s have <a href="https://science.nasa.gov/image-article/apod-2024-june-15-prominences-and-filaments-on-the-active-sun/">our Sun</a> in common, a <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthis-is-the-most-cute-thing-i-ever-seen-v0-mpx697lakcue1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Da5d18b145135737912b5caa61fcc56766726f6cb">stellar member</a> of the Milky Way that ejects energetic particles which create <a href="https://science.nasa.gov/image-article/apod-2026-february-10-in-green-company-aurora-over-norway/">aurora</a>s. Far behind the middle of the <a href="https://science.nasa.gov/image-article/apod-2021-january-13-arches-across-an-arctic-sky/">auroral arch</a> is the <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a>. Even farther in the distance is the <a href="https://svs.gsfc.nasa.gov/11675/">Andromeda galaxy</a> -- the bright spot near the top of the frame, just left of center. The <a href="https://www.instagram.com/p/DfAZEgmIDIq/">featured image</a> was taken about a month ago from <a href="https://youtu.be/4VlzJh3WBGU">Kvaløya</a> in northern <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>.<br><br><strong>Tomorrow's picture: </strong>open space]]></description>
+		<content:encoded><![CDATA[<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> APOD: 2026 November 17 - Milky Way versus Aurora</title>
+<link rel="canonical" href="https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/">
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="Dana Bolles">
+<meta name="content-owner" content="Robert Nemiroff">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="Explanation: Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast, is an auroral ribbon that is only hours old, composed of energized atoms and molecules, and is close by -- right in Earth&#039;s upper atmosphere. These chance-superposed titans have our Sun in common, a stellar member of the Milky Way that ejects energetic particles which create auroras. Far behind the middle of the auroral arch is the Big Dipper. Even farther in the distance is the Andromeda galaxy -- the bright spot near the top of the frame, just left of center. The featured image was taken about a month ago from Kvaløya in northern Norway.Tomorrow&#039;s picture: open space">
+<!-- -->
+<meta name="keywords" content="milky way versus aurora">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Milky Way versus Aurora">
+<meta property="og:url" content="https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/">
+<meta property="og:site_name" content="NASA Science">
+<meta property="og:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=960&#038;h=1200&#038;fit=clip">
+<meta property="og:image:secure_url" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=960&#038;h=1200&#038;fit=clip">
+<meta property="og:image:alt" content="A starry night sky is seen above water and some islands. In the night sky are two bright arches that are nearly vertical. On the left is the textured Milky Way and on the right is a  smoother ribbon of aurora. Please see the explanation for more detailed information.">
+<meta property="article:published_time" content="2026-11-17T00:05:00-05:00">
+<meta property="article:modified_time" content="2026-11-16T14:03:43-05:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Milky Way versus Aurora">
+<meta name="twitter:site" content="@NASA">
+<meta name="twitter:creator" content="@NASA">
+<meta name="twitter:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=960&#038;h=1200&#038;fit=clip">
+</head>
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="https://science.nasa.gov/apod/archive/">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2026 November 17<br>
+
+<a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg" onMouseOver="if (document.images) document.imagename1.src='https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960_annotated.jpg';"
+onMouseOut="if (document.images) document.imagename1.src='https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg';">
+<IMG SRC="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg" name=imagename1 alt="A starry night sky is seen above water and some islands. In the night sky are two bright arches that are nearly vertical. On the left is the textured Milky Way and on the right is a  smoother ribbon of aurora. Please see the explanation for more detailed information."></a>
+</center>
+
+<center>
+<b> Milky Way versus Aurora </b> <br>
+
+<b>Image Credit &
+<a href="https://science.nasa.gov/apod/about-apod/">Copyright</a>:</b>
+
+<a href="https://www.instagram.com/guillaume_scheib/">Guillaume Scheib</a>
+</center>
+
+<p>
+
+<b> Explanation: </b>
+
+<strong>Explanation:</strong> Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">Milky Way Galaxy</a>, an ancient system of stars, gas, and dust that predates <a href="https://science.nasa.gov/resource/planet-earth-through-the-ages/">our Earth</a> and is very far away. The arch on the right, by contrast, is an <a href="https://science.nasa.gov/image-article/apod-2004-november-12-missouris-green-ribbon-sky/">auroral ribbon</a> that is only hours old, composed of energized <a href="https://www.bbc.co.uk/bitesize/articles/zc86m39#zygjdp3">atoms and molecules</a>, and is close by -- right in <a href="https://www.nasa.gov/image-article/properties-of-earths-upper-atmosphere/">Earth's upper atmosphere</a>. These chance-superposed <a href="https://science.nasa.gov/image-article/apod-2025-november-30-the-surface-of-titan-from-huygens/">titan</a>s have <a href="https://science.nasa.gov/image-article/apod-2024-june-15-prominences-and-filaments-on-the-active-sun/">our Sun</a> in common, a <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthis-is-the-most-cute-thing-i-ever-seen-v0-mpx697lakcue1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Da5d18b145135737912b5caa61fcc56766726f6cb">stellar member</a> of the Milky Way that ejects energetic particles which create <a href="https://science.nasa.gov/image-article/apod-2026-february-10-in-green-company-aurora-over-norway/">aurora</a>s. Far behind the middle of the <a href="https://science.nasa.gov/image-article/apod-2021-january-13-arches-across-an-arctic-sky/">auroral arch</a> is the <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a>. Even farther in the distance is the <a href="https://svs.gsfc.nasa.gov/11675/">Andromeda galaxy</a> -- the bright spot near the top of the frame, just left of center. The <a href="https://www.instagram.com/p/DfAZEgmIDIq/">featured image</a> was taken about a month ago from <a href="https://youtu.be/4VlzJh3WBGU">Kvaløya</a> in northern <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>.<br><br><strong>Tomorrow's picture: </strong>open space
+<p> <center>
+
+<b> Tomorrow's picture: </b><a href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/">APOD: 2026 November 18 &#8211; A Medium-Sized Solar Flare</a>
+
+<p> <hr>
+<a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/">&lt;</a>
+| <a href="https://science.nasa.gov/apod/archive/">Archive</a>
+| <a href="https://science.nasa.gov/apod/archive/">Index</a>
+| <a href="https://science.nasa.gov/apod/archive/">Search</a>
+| <a href="https://science.nasa.gov/apod/calendar/">Calendar</a>
+| <a href="/feed/apod-basic/">RSS</a>
+| <a href="https://science.nasa.gov/apod/education-links/">Education</a>
+| <a href="https://science.nasa.gov/apod/about-apod/">About APOD</a>
+| <a href="https://asterisk.apod.com/discuss_apod.php?date=261117">Discuss</a>
+| <a href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe<br>
+<b>NASA Official: </b> Dana Bolles<a href="https://science.nasa.gov/apod/about-apod/">Specific rights apply</a>.<br>
+<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="http://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="http://www.nasa.gov/">NASA</a> /
+<a href="http://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>]]></content:encoded>
+	</item>
+	<item>
+		<title>Major Fireball Meteor</title>
+		<link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
+		<guid isPermaLink="true">https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</guid>
+		<pubDate>Sun, 08 Nov 2026 05:05:00 +0000</pubDate>
+		<apod:url>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</apod:url>
+		<apod:hdurl>https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png</apod:hdurl>
+		<apod:discussion>https://asterisk.apod.com/discuss_apod.php?date=261108</apod:discussion>
+		<apod:credit><![CDATA[<a href="https://www.instagram.com/olliemtaylor/">Ollie Taylor</a>]]></apod:credit>
+		<apod:copyright><![CDATA[<a href="https://www.instagram.com/olliemtaylor/">Ollie Taylor</a>]]></apod:copyright>
+		<apod:alt>A mountainous landscape with snow and trees is seen  below a starry sky. A pink band is visible on the horizon.  Coming down from the sky is a bright meteor trail. Just above the meteor are the stars of the Big Dipper.  Please see the explanation for more detailed information.</apod:alt>
+		<apod:primary_image_alt>A mountainous landscape with snow and trees is seen  below a starry sky. A pink band is visible on the horizon.  Coming down from the sky is a bright meteor trail. Just above the meteor are the stars of the Big Dipper.  Please see the explanation for more detailed information.</apod:primary_image_alt>
+		<apod:explanation><![CDATA[<strong>Explanation:</strong> <a href="https://science.nasa.gov/image-article/apod-2010-july-22-the-meteor-of-1860/">The sky glows</a> with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">thoughtfully composed photo</a> shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of <a href="https://youtu.be/bVNV2-wma5E">La Villa, Alta Badia</a> in <a href="https://en.wikipedia.org/wiki/Italy">Italy</a>'s <a href="https://science.nasa.gov/image-article/apod-2024-november-6-comet-tsuchinshan-atlas-over-the-dolomites/">Dolomite Alps</a>. Above the nestled village lights, the <a href="https://science.nasa.gov/asset/hubble/constellation-ursa-major/">constellation Ursa Major</a> hangs over the northern horizon. But most <a href="https://unsplash.com/photos/white-and-gray-long-fur-cat-AGehl6k8xVo">stunning</a> is the intense <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html">fireball</a> meteor. It was <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">captured</a> during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a> <a href="https://science.nasa.gov/solar-system/what-are-asterisms/">asterism</a>. Sightings of <a href="https://www.amsmeteors.org/2017/11/four-major-fireballs-within-ten-hours/">this major fireball meteor</a> were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's <a href="https://www.amsmeteors.org/">American Meteor Society</a> and the <a href="https://www.imo.net/">International Meteor Organization</a>. The meteor's measured track over <a href="https://en.wikipedia.org/wiki/Germany">Germany</a> is consistent with its origin near the active <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">radiant</a> of November's Northern <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">Taurid Meteor Shower</a>, a shower associated with dust from <a href="https://science.nasa.gov/image-article/apod-2003-december-23-comet-encke-returns/">Encke's comet</a>.<br><br><strong>Tomorrow's picture:</strong> witch sky?]]></apod:explanation>
+		<description><![CDATA[<strong>Explanation:</strong> <a href="https://science.nasa.gov/image-article/apod-2010-july-22-the-meteor-of-1860/">The sky glows</a> with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">thoughtfully composed photo</a> shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of <a href="https://youtu.be/bVNV2-wma5E">La Villa, Alta Badia</a> in <a href="https://en.wikipedia.org/wiki/Italy">Italy</a>'s <a href="https://science.nasa.gov/image-article/apod-2024-november-6-comet-tsuchinshan-atlas-over-the-dolomites/">Dolomite Alps</a>. Above the nestled village lights, the <a href="https://science.nasa.gov/asset/hubble/constellation-ursa-major/">constellation Ursa Major</a> hangs over the northern horizon. But most <a href="https://unsplash.com/photos/white-and-gray-long-fur-cat-AGehl6k8xVo">stunning</a> is the intense <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html">fireball</a> meteor. It was <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">captured</a> during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a> <a href="https://science.nasa.gov/solar-system/what-are-asterisms/">asterism</a>. Sightings of <a href="https://www.amsmeteors.org/2017/11/four-major-fireballs-within-ten-hours/">this major fireball meteor</a> were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's <a href="https://www.amsmeteors.org/">American Meteor Society</a> and the <a href="https://www.imo.net/">International Meteor Organization</a>. The meteor's measured track over <a href="https://en.wikipedia.org/wiki/Germany">Germany</a> is consistent with its origin near the active <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">radiant</a> of November's Northern <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">Taurid Meteor Shower</a>, a shower associated with dust from <a href="https://science.nasa.gov/image-article/apod-2003-december-23-comet-encke-returns/">Encke's comet</a>.<br><br><strong>Tomorrow's picture:</strong> witch sky?]]></description>
+		<content:encoded><![CDATA[<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> APOD: 2026 November 8 - Major Fireball Meteor</title>
+<link rel="canonical" href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/">
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="Dana Bolles">
+<meta name="content-owner" content="Robert Nemiroff">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="Explanation: The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy&#039;s Dolomite Alps. Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera&#039;s exposure by chance as it flashed east to west across the northern horizon, under Ursa Major&#039;s familiar Big Dipper asterism. Sightings of this major fireball meteor were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth&#039;s American Meteor Society and the International Meteor Organization. The meteor&#039;s measured track over Germany is consistent with its origin near the active radiant of November&#039;s Northern Taurid Meteor Shower, a shower associated with dust from Encke&#039;s comet.Tomorrow&#039;s picture: witch sky?">
+<!-- -->
+<meta name="keywords" content="major fireball meteor">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Major Fireball Meteor">
+<meta property="og:url" content="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/">
+<meta property="og:site_name" content="NASA Science">
+<meta property="og:image" content="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png">
+<meta property="og:image:secure_url" content="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png">
+<meta property="og:image:alt" content="A mountainous landscape with snow and trees is seen  below a starry sky. A pink band is visible on the horizon.  Coming down from the sky is a bright meteor trail. Just above the meteor are the stars of the Big Dipper.  Please see the explanation for more detailed information.">
+<meta property="article:published_time" content="2026-11-08T00:05:00-05:00">
+<meta property="article:modified_time" content="2026-11-04T10:32:05-05:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Major Fireball Meteor">
+<meta name="twitter:site" content="@NASA">
+<meta name="twitter:creator" content="@NASA">
+<meta name="twitter:image" content="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png">
+</head>
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="https://science.nasa.gov/apod/archive/">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2026 November 8<br>
+
+<a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg">
+<IMG SRC="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg" alt="A mountainous landscape with snow and trees is seen  below a starry sky. A pink band is visible on the horizon.  Coming down from the sky is a bright meteor trail. Just above the meteor are the stars of the Big Dipper.  Please see the explanation for more detailed information."></a>
+</center>
+
+<center>
+<b> Major Fireball Meteor </b> <br>
+
+<b>Image Credit &
+<a href="https://science.nasa.gov/apod/about-apod/">Copyright</a>:</b>
+
+<a href="https://www.instagram.com/olliemtaylor/">Ollie Taylor</a>
+</center>
+
+<p>
+
+<b> Explanation: </b>
+
+<strong>Explanation:</strong> <a href="https://science.nasa.gov/image-article/apod-2010-july-22-the-meteor-of-1860/">The sky glows</a> with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">thoughtfully composed photo</a> shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of <a href="https://youtu.be/bVNV2-wma5E">La Villa, Alta Badia</a> in <a href="https://en.wikipedia.org/wiki/Italy">Italy</a>'s <a href="https://science.nasa.gov/image-article/apod-2024-november-6-comet-tsuchinshan-atlas-over-the-dolomites/">Dolomite Alps</a>. Above the nestled village lights, the <a href="https://science.nasa.gov/asset/hubble/constellation-ursa-major/">constellation Ursa Major</a> hangs over the northern horizon. But most <a href="https://unsplash.com/photos/white-and-gray-long-fur-cat-AGehl6k8xVo">stunning</a> is the intense <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html">fireball</a> meteor. It was <a href="https://www.esa.int/ESA_Multimedia/Images/2017/11/Autumn_fireball">captured</a> during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar <a href="https://science.nasa.gov/image-article/apod-2013-april-21-the-big-dipper/">Big Dipper</a> <a href="https://science.nasa.gov/solar-system/what-are-asterisms/">asterism</a>. Sightings of <a href="https://www.amsmeteors.org/2017/11/four-major-fireballs-within-ten-hours/">this major fireball meteor</a> were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's <a href="https://www.amsmeteors.org/">American Meteor Society</a> and the <a href="https://www.imo.net/">International Meteor Organization</a>. The meteor's measured track over <a href="https://en.wikipedia.org/wiki/Germany">Germany</a> is consistent with its origin near the active <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">radiant</a> of November's Northern <a href="https://science.nasa.gov/image-article/apod-2025-august-12-perseids-from-perseus/">Taurid Meteor Shower</a>, a shower associated with dust from <a href="https://science.nasa.gov/image-article/apod-2003-december-23-comet-encke-returns/">Encke's comet</a>.<br><br><strong>Tomorrow's picture:</strong> witch sky?
+<p> <center>
+
+<b> Tomorrow's picture: </b><a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/">APOD: 2026 November 9 &#8211; Rigel and the Witch Head Nebula</a>
+
+<p> <hr>
+<a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/">&lt;</a>
+| <a href="https://science.nasa.gov/apod/archive/">Archive</a>
+| <a href="https://science.nasa.gov/apod/archive/">Index</a>
+| <a href="https://science.nasa.gov/apod/archive/">Search</a>
+| <a href="https://science.nasa.gov/apod/calendar/">Calendar</a>
+| <a href="/feed/apod-basic/">RSS</a>
+| <a href="https://science.nasa.gov/apod/education-links/">Education</a>
+| <a href="https://science.nasa.gov/apod/about-apod/">About APOD</a>
+| <a href="https://asterisk.apod.com/discuss_apod.php?date=261108">Discuss</a>
+| <a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe<br>
+<b>NASA Official: </b> Dana Bolles<a href="https://science.nasa.gov/apod/about-apod/">Specific rights apply</a>.<br>
+<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="http://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="http://www.nasa.gov/">NASA</a> /
+<a href="http://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>]]></content:encoded>
+	</item>
+	<item>
+		<title>The Mutual Occultation of Ganymede and Io</title>
+		<link>https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/</link>
+		<guid isPermaLink="true">https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/</guid>
+		<pubDate>Wed, 28 Oct 2026 04:05:00 +0000</pubDate>
+		<apod:url>https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/</apod:url>
+		<apod:hdurl>https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/occultation.jpeg?w=1600&#038;h=1000&#038;fit=clip</apod:hdurl>
+		<apod:discussion>https://asterisk.apod.com/discuss_apod.php?date=261028</apod:discussion>
+		<apod:credit><![CDATA[Michael Wong]]></apod:credit>
+		<apod:copyright><![CDATA[<a href="https://www.astromw.com/">Michael Wong</a>]]></apod:copyright>
+		<apod:alt>The disk of Jupiter sits to the right. The giant red spot rotates into view and the horizontal cloud streams swirl. To the left, Ganymede passes in front of Io. An inlet shows this zoomed in. Ganymede casts a shadow on Jupiter&#039;s disk.</apod:alt>
+		<apod:primary_image_alt>The disk of Jupiter sits to the right. The giant red spot rotates into view and the horizontal cloud streams swirl. To the left, Ganymede passes in front of Io. An inlet shows this zoomed in. Ganymede casts a shadow on Jupiter&#039;s disk.</apod:primary_image_alt>
+		<apod:explanation><![CDATA[<strong>Explanation:</strong> Jupiter is one of the least lonely planets in the Solar System, at least when it comes to <a href="https://science.nasa.gov/solar-system/moons/">natural satellites</a>. <a href="https://spaceplace.nasa.gov/how-many-moons/en/">115 moons</a> have been discovered orbiting Jupiter so far! (<em>Saturn has the most with 293, but <a href="https://ssd.jpl.nasa.gov/sats/discovery.html">who’s counting</a>.</em>) <a href="https://science.nasa.gov/jupiter/jupiter-moons/ganymede/">Ganymede</a> and <a href="https://science.nasa.gov/jupiter/jupiter-moons/io/">Io</a>, two of Jupiter’s <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/">Galilean moons</a>, met in the sky on October 20th, 2026. Today’s video captures the meeting, with <a href="https://science.nasa.gov/image-article/apod-2021-june-14-ganymede-from-juno/">Ganymede</a> briefly blocking <a href="https://science.nasa.gov/image-article/apod-2026-january-20-io-in-true-color/">Io</a> from view. This event, when an astronomical object passes in front of another and either completely or partially blocks it, is called a mutual occultation. The <a href="https://www.alpo-astronomy.org/jupiter">mutual occultations of Galilean moons</a> are rare to witness because they require Earth’s edge-on view of their orbits. This occurs once every 6 years when Jupiter reaches <a href="https://earthsky.org/astronomy-essentials/jupiter-equinox-mutual-events-moon-2021/">its equinox</a> and appears less “tilted”. Ganymede is also <a href="https://science.nasa.gov/image-article/apod-2022-april-27-moon-shadow-on-jupiter/">casting its shadow</a> on Jupiter’s right side. Any <a href="https://en.wikipedia.org/wiki/Jupiter_in_fiction">fictional Jovian species</a> within the shadow would experience a <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/">solar eclipse</a>!<br><br><strong>Tomorrow's picture:</strong> a planet grows horns]]></apod:explanation>
+		<description><![CDATA[<strong>Explanation:</strong> Jupiter is one of the least lonely planets in the Solar System, at least when it comes to <a href="https://science.nasa.gov/solar-system/moons/">natural satellites</a>. <a href="https://spaceplace.nasa.gov/how-many-moons/en/">115 moons</a> have been discovered orbiting Jupiter so far! (<em>Saturn has the most with 293, but <a href="https://ssd.jpl.nasa.gov/sats/discovery.html">who’s counting</a>.</em>) <a href="https://science.nasa.gov/jupiter/jupiter-moons/ganymede/">Ganymede</a> and <a href="https://science.nasa.gov/jupiter/jupiter-moons/io/">Io</a>, two of Jupiter’s <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/">Galilean moons</a>, met in the sky on October 20th, 2026. Today’s video captures the meeting, with <a href="https://science.nasa.gov/image-article/apod-2021-june-14-ganymede-from-juno/">Ganymede</a> briefly blocking <a href="https://science.nasa.gov/image-article/apod-2026-january-20-io-in-true-color/">Io</a> from view. This event, when an astronomical object passes in front of another and either completely or partially blocks it, is called a mutual occultation. The <a href="https://www.alpo-astronomy.org/jupiter">mutual occultations of Galilean moons</a> are rare to witness because they require Earth’s edge-on view of their orbits. This occurs once every 6 years when Jupiter reaches <a href="https://earthsky.org/astronomy-essentials/jupiter-equinox-mutual-events-moon-2021/">its equinox</a> and appears less “tilted”. Ganymede is also <a href="https://science.nasa.gov/image-article/apod-2022-april-27-moon-shadow-on-jupiter/">casting its shadow</a> on Jupiter’s right side. Any <a href="https://en.wikipedia.org/wiki/Jupiter_in_fiction">fictional Jovian species</a> within the shadow would experience a <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/">solar eclipse</a>!<br><br><strong>Tomorrow's picture:</strong> a planet grows horns]]></description>
+		<content:encoded><![CDATA[<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> APOD: 2026 October 28 - The Mutual Occultation of Ganymede and Io</title>
+<link rel="canonical" href="https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/">
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="Dana Bolles">
+<meta name="content-owner" content="Robert Nemiroff">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="Explanation: Jupiter is one of the least lonely planets in the Solar System, at least when it comes to natural satellites. 115 moons have been discovered orbiting Jupiter so far! (Saturn has the most with 293, but who’s counting.) Ganymede and Io, two of Jupiter’s Galilean moons, met in the sky on October 20th, 2026. Today’s video captures the meeting, with Ganymede briefly blocking Io from view. This event, when an astronomical object passes in front of another and either completely or partially blocks it, is called a mutual occultation. The mutual occultations of Galilean moons are rare to witness because they require Earth’s edge-on view of their orbits. This occurs once every 6 years when Jupiter reaches its equinox and appears less “tilted”. Ganymede is also casting its shadow on Jupiter’s right side. Any fictional Jovian species within the shadow would experience a solar eclipse!Tomorrow&#039;s picture: a planet grows horns">
+<!-- -->
+<meta name="keywords" content="the mutual occultation of ganymede and io">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Mutual Occultation of Ganymede and Io">
+<meta property="og:url" content="https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/">
+<meta property="og:site_name" content="NASA Science">
+<meta property="og:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/occultation.jpeg?w=1600&#038;h=1000&#038;fit=clip">
+<meta property="og:image:secure_url" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/occultation.jpeg?w=1600&#038;h=1000&#038;fit=clip">
+<meta property="og:image:alt" content="The disk of Jupiter sits to the right. Large horizontal bands of clouds are visible on Jupiter and the giant red spot is rotating into view. To the left, Ganymede and Io orbit Jupiter. An inlet shows this zoomed in. Ganymede casts a shadow on Jupiter&#039;s disk.">
+<meta property="article:published_time" content="2026-10-28T00:05:00-04:00">
+<meta property="article:modified_time" content="2026-10-27T12:22:11-04:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Mutual Occultation of Ganymede and Io">
+<meta name="twitter:site" content="@NASA">
+<meta name="twitter:creator" content="@NASA">
+<meta name="twitter:image" content="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/occultation.jpeg?w=1600&#038;h=1000&#038;fit=clip">
+</head>
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="https://science.nasa.gov/apod/archive/">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2026 October 28<br>
+
+<video controls title="">
+<source src="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/occultation.mp4" type="video/mp4">
+</video>
+</center>
+
+<center>
+<b> The Mutual Occultation of Ganymede and Io </b> <br>
+
+<b>Image Credit &
+<a href="https://science.nasa.gov/apod/about-apod/">Copyright</a>:</b>
+
+Michael Wong
+</center>
+
+<p>
+
+<b> Explanation: </b>
+
+<strong>Explanation:</strong> Jupiter is one of the least lonely planets in the Solar System, at least when it comes to <a href="https://science.nasa.gov/solar-system/moons/">natural satellites</a>. <a href="https://spaceplace.nasa.gov/how-many-moons/en/">115 moons</a> have been discovered orbiting Jupiter so far! (<em>Saturn has the most with 293, but <a href="https://ssd.jpl.nasa.gov/sats/discovery.html">who’s counting</a>.</em>) <a href="https://science.nasa.gov/jupiter/jupiter-moons/ganymede/">Ganymede</a> and <a href="https://science.nasa.gov/jupiter/jupiter-moons/io/">Io</a>, two of Jupiter’s <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/">Galilean moons</a>, met in the sky on October 20th, 2026. Today’s video captures the meeting, with <a href="https://science.nasa.gov/image-article/apod-2021-june-14-ganymede-from-juno/">Ganymede</a> briefly blocking <a href="https://science.nasa.gov/image-article/apod-2026-january-20-io-in-true-color/">Io</a> from view. This event, when an astronomical object passes in front of another and either completely or partially blocks it, is called a mutual occultation. The <a href="https://www.alpo-astronomy.org/jupiter">mutual occultations of Galilean moons</a> are rare to witness because they require Earth’s edge-on view of their orbits. This occurs once every 6 years when Jupiter reaches <a href="https://earthsky.org/astronomy-essentials/jupiter-equinox-mutual-events-moon-2021/">its equinox</a> and appears less “tilted”. Ganymede is also <a href="https://science.nasa.gov/image-article/apod-2022-april-27-moon-shadow-on-jupiter/">casting its shadow</a> on Jupiter’s right side. Any <a href="https://en.wikipedia.org/wiki/Jupiter_in_fiction">fictional Jovian species</a> within the shadow would experience a <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/">solar eclipse</a>!<br><br><strong>Tomorrow's picture:</strong> a planet grows horns
+<p> <center>
+
+<b> Tomorrow's picture: </b><a href="https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/">APOD: 29 October 2026 &#8211; The Horns of Venus</a>
+
+<p> <hr>
+<a href="https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/">&lt;</a>
+| <a href="https://science.nasa.gov/apod/archive/">Archive</a>
+| <a href="https://science.nasa.gov/apod/archive/">Index</a>
+| <a href="https://science.nasa.gov/apod/archive/">Search</a>
+| <a href="https://science.nasa.gov/apod/calendar/">Calendar</a>
+| <a href="/feed/apod-basic/">RSS</a>
+| <a href="https://science.nasa.gov/apod/education-links/">Education</a>
+| <a href="https://science.nasa.gov/apod/about-apod/">About APOD</a>
+| <a href="https://asterisk.apod.com/discuss_apod.php?date=261028">Discuss</a>
+| <a href="https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+Keighley Rockcliffe, Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti<br>
+<b>NASA Official: </b> Dana Bolles<a href="https://science.nasa.gov/apod/about-apod/">Specific rights apply</a>.<br>
+<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="http://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="http://www.nasa.gov/">NASA</a> /
+<a href="http://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>]]></content:encoded>
+	</item>
+</channel>
+</rss>
